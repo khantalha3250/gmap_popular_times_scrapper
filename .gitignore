@@ -2,7 +2,7 @@
 *.py[cod]
 __pycache__/
 *.so
-__init__.py
+
 # Virtual environments
 env/
 venv/
